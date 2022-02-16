@@ -1,0 +1,24 @@
+{
+  "movies":[
+    {
+      "id":1,
+      "name":"Cobra Kai",
+      "https://cema4.ink/shahed4u/wp-content/uploads/2022/01/1641114671_MV5BY2NmNzEzN2QtMTBhOC00OGY1LThkMGMtZTIwMTE3MmUyNDc1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id":2,
+      "name":"All of Us Are Dead",
+      "https://foto.kontan.co.id/hsYoWcp05sTkTuaEFHpI6i6dF1s=/smart/2021/12/31/23051703p.jpg"
+    },
+    {
+      "id":3,
+      "name":"The Walking Dead",
+      "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYfRWZd5IVpPxDL-Cxw6uBgW2snHyc3EdvJh3eGKPbhweYLD0X"
+    },
+    {
+      "id":4,
+      "name":"Kurtlar Vadisi",
+      "https://upload.wikimedia.org/wikipedia/tr/3/3a/Kurtlar_Vadisi_Pusu_Logosu.png"
+    }
+  ]
+}
