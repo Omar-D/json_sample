@@ -1,0 +1,5 @@
+{
+  "title":"The Smart Coder",
+  "array":[{"company":"Facebook"},{"company":"Whatsapp"},{"company":"Instagram"},{"company":"Telegram"},{"company":"Twitter"},{"company":"Snapchat"},{"company":"Viber"},{"company":"Massenger"}],
+  "nested":{"flag":true,random_number:1}
+}
