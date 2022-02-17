@@ -19,6 +19,16 @@
       "id":4,
       "name":"Kurtlar Vadisi",
       "image":"https://upload.wikimedia.org/wikipedia/tr/3/3a/Kurtlar_Vadisi_Pusu_Logosu.png"
+    },
+    {
+      "id":5,
+      "name":"A Quiet Place",
+      "image":"https://contentserver.com.au/assets/642339_a_quiet_place_v8.jpg"
+    },
+    {
+      "id":6,
+      "name":"A Quiet Place II",
+      "image":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuDtVnZtfg7KijR9f9Pew56CnxF_52MCbUsmhAXXLhTM3SGGrS"
     }
   ]
 }
