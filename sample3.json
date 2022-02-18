@@ -1,4 +1,4 @@
-{
+[
     {
       "id": 1,
       "name": "Cobra Kai",
@@ -29,4 +29,4 @@
       "name": "A Quiet Place II",
       "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuDtVnZtfg7KijR9f9Pew56CnxF_52MCbUsmhAXXLhTM3SGGrS"
     }
-}
+]
